@@ -1,0 +1,8 @@
+FLEX LAYOUT
+
+{0rder:0} child property-define oeder of the element
+{flex-wrap:nowrap/wrap/wrap reverse} 
+{justify-content:flex-start/flex-end/center/space-between/space-evenly/space-around}
+{align-items:flex-start/flex-end/center/baseline/stretch}-align items according to size of container
+{align-self:fex-start}-child propert/make item seperate from group things
+{align-content:center/}-only work when flex-wrap is set to wrap
