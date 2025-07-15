@@ -1,0 +1,6 @@
+/* Write your code here: */
+h1,h2{color:purple}/*group selector*/
+.box>p{color:firebrick}/*chlid selector*/
+.box li{color: blue;}/*descending*/
+li.done{color: seagreen;}/*chaining*/
+ul p.done{font-size: 0.5rem;}
